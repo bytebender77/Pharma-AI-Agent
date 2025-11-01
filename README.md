@@ -18,7 +18,7 @@ Multi-Agent AI System for Drug Repurposing and Market Intelligence
 1. **Clone Repository**
 ```bash
 git clone <your-repo-url>
-cd pharma-agentic-ai
+cd Pharma-AI-Agent
 ```
 
 2. **Create Virtual Environment**
