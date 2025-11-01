@@ -1,35 +1,5 @@
-# ===================================
-# CORE AGENTIC AI FRAMEWORK
-# ===================================
 crewai[google-genai]==1.3.0
-
-# ===================================
-# LANGCHAIN (compatible versions)
-# ===================================
-langchain==0.3.7
-langchain-community==0.3.7
-langchain-core==0.3.43
-
-# ===================================
-# GOOGLE AI (compatible versions)
-# ===================================
-langchain-google-genai==2.1.0
-google-generativeai==0.8.5
-
-# ===================================
-# WEB FRAMEWORK
-# ===================================
 streamlit>=1.32.0
-
-# ===================================
-# DATA PROCESSING
-# ===================================
+python-dotenv>=1.1.1
 pandas>=2.2.0
 requests>=2.31.0
-
-# ===================================
-# UTILITIES
-# ===================================
-python-dotenv>=1.1.1
-pydantic>=2.6.0
-tenacity>=8.2.0
